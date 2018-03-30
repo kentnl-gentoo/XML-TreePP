@@ -7,7 +7,6 @@ README.md
 example/envxml.cgi
 lib/XML/TreePP.pm
 make-dist.sh
-t/00_pod.t
 t/01_parse.t
 t/02_write.t
 t/03_parsefile.t
